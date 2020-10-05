@@ -1,4 +1,4 @@
-# -continuouseverything
+# continuouseverything
 Senior Software Engineering Manager - promoting DevOps, Lean Software Development and advocating Continuous Testing - with good balance between management capabilities and getting things done.
 
 I'm strong professional skilled in DevOps, Continuous Delivery, test automation, lean software development.
